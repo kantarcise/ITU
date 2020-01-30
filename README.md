@@ -2,7 +2,7 @@
 Istanbul Technical University Undergraduate &amp; Graduate Handbooks.
 
 <p align="center">
-  <img src="assests/itu.png">
+  <img src="assests/itu.jpg">
 </p>
 
 
