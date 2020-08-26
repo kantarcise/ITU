@@ -8,5 +8,5 @@ Istanbul Technical University Undergraduate &amp; Graduate Handbooks.
 
 
 
-This is an open-source project developed for students to help each other.
+This is an open-source project, developed for students to help each other.
 
